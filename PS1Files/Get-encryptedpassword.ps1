@@ -1,0 +1,1 @@
+﻿"RTS@dm1n" | ConvertTo-SecureString -AsPlainText -Force | ConvertFrom-SecureString | Out-File "C:\itaotemp\desktopbackupscripts\TEMP\encrypted_password.txt"
